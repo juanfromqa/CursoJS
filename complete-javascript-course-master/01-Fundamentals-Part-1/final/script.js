@@ -32,6 +32,15 @@ console.log(myFirstJob);
 
 ////////////////////////////////////
 // Data Types
+
+In Javascript all numbers (float, integer,double) are Number objects
+
+
+let -  PARA DECLARAR VARAIBLES QUE CAMBIEN DE VALOR DURANTE EL PROGRAMA- Cuando necesitamos que una varaible mute
+const - PARA VARIABLES QUE NO VAN A CAMBIAR PUES SU VBALOR NO PUEDE CAMBIAR
+var - OLD WAY SE PUEDE OMITIR, NO USAR ESTA OPCION (prior to ES6)
+Se puede declarar una variable sin let,const o var, pero no es recomendable porque se pierde el rastro del scope de la variable
+
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
 
